@@ -14,4 +14,4 @@ See the root ``LICENSE`` and ``THIRD_PARTY_NOTICES.md`` files.
 Contact
 -------
 
-Package adaptation and maintenance: Dr Taher Abunama.
+Package adaptation and maintenance: Dr Taher Abunama (tabunama@gmail.com)

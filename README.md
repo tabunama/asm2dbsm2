@@ -24,7 +24,7 @@ from asm2dbsm2 import adm1dae1, adm1dae2, adm1ode, adm2asm, asm2adm, carboncombi
 
 - `adm1dae1` : ADM1 DAE1.
 - `adm1dae2` : ADM1 DAE2.
-- `adm1ode` : ADM1 ODEr.
+- `adm1ode` : ADM1 ODE.
 - `adm2asm` : ADM-to-ASM2d interface.
 - `asm2adm` : ASM2d-to-ADM interface.
 - `asm2d` : ASM2d biological reactor.
@@ -53,7 +53,7 @@ from asm2dbsm2 import adm1dae1, adm1dae2, adm1ode, adm2asm, asm2adm, carboncombi
 ## Python packaging / adaptation
 
 - Package: `asm2dbsm2`
-- Python packaging and ASM2d-BSM2 adaptation: Dr Taher Abunama
+- Python packaging and ASM2d-BSM2 adaptation: Dr Taher Abunama (tabunama@gmail.com)
 
 
 ## Attribution and license

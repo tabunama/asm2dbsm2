@@ -1,7 +1,7 @@
 Installation
 ============
 
-Install from PyPI
+Install 
 -----------------
 
 .. code-block:: powershell
