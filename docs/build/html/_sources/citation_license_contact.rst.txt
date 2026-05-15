@@ -4,7 +4,7 @@ Citation, license and contact
 Citation
 --------
 
-*ASM2d-BSM2 Python Package*. Taher Abunama, Xavier Flores-Alsina, Krist V. Gernaeyet, Ulf Jeppsson, Christian Rosen et al. 2026.
+*ASM2d-BSM2 Python Package*. Taher Abunama, Xavier Flores-Alsina, Krist V. Gernaeyet, Ulf Jeppsson, Christian Rosen, Ingmar Nopens, Peter A. Vanrolleghem et al. 2026.
 
 License
 -------
