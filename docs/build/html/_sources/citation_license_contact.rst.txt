@@ -9,9 +9,9 @@ Citation
 License
 -------
 
-See the root ``LICENSE`` and ``THIRD_PARTY_NOTICES.md`` files.
+See ``LICENSE`` and ``THIRD_PARTY_NOTICES.md``.
 
 Contact
 -------
 
-Package adaptation and maintenance: Dr Taher Abunama (tabunama@gmail.com)
+Foe python package adaptation: Dr Taher Abunama (tabunama@gmail.com)

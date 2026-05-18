@@ -1,6 +1,6 @@
 # asm2dbsm2 – Third-Party Notices / Attribution
 
-This distribution contains Python extension modules adapted from Matlab BSM2 and BSM2-GHG workflows, refactored for ASM2d-compatible stream vectors.
+This distribution contains Python modules from BSM2 refactored for ASM2d.
 
 ## Upstream BSM2 source attribution
 

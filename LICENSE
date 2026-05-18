@@ -1,6 +1,6 @@
 asm2dbsm2 — License and Upstream Agreement Notice
 
-This package contains Python modules adapted from BSM2 and BSM2-GHG Matlab implementations and refactored for ASM2d-compatible Python use.
+This package contains Python modules from BSM2 implementations for ASM2d.
 
 This package is provided under the upstream acknowledgement described below.
 

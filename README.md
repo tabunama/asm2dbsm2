@@ -59,4 +59,4 @@ from asm2dbsm2 import adm1dae1, adm1dae2, adm1ode, adm2asm, asm2adm, carboncombi
 ## Attribution and license
 
 See `LICENSE` and `THIRD_PARTY_NOTICES.md`. 
-Publications using this software should acknowledge the BSM2 sources and the upstream authors.
+Publications using this package should acknowledge the BSM2 sources and the upstream authors.
